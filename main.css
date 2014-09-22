@@ -1,0 +1,17 @@
+.map img {
+	max-width: 100%;
+}
+
+.map {
+	position: relative;
+	max-width: 100%;
+	margin: auto;
+}
+
+.x-coordinate {
+	display: none;
+}
+
+.y-coordinate {
+	display: none;
+}
